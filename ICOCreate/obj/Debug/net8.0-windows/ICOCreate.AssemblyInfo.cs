@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICOCreate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7bc55b7c26d89525c5467d6cd5d49e471fc5f9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edf1b2fcbeae8745266eed725e49b4a8fde4d113")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICOCreate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICOCreate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

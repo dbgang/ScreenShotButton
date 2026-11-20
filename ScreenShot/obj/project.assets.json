@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+      "projectUniqueName": "D:\\gitHub\\ScreenShotButton\\ScreenShot\\ScreenShot.csproj",
       "projectName": "ScreenShot",
-      "projectPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+      "projectPath": "D:\\gitHub\\ScreenShotButton\\ScreenShot\\ScreenShot.csproj",
       "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-      "outputPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\obj\\",
+      "outputPath": "D:\\gitHub\\ScreenShotButton\\ScreenShot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

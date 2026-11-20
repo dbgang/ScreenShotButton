@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 
 // 1. Wi-Fi 配置
-const char* ssid = "dbgang";
-const char* password = "jhjn20130119";
+const char* ssid = "dbg";
+const char* password = "jhjn";
 
 // 2. 上位机服务地址（请将 192.168.1.X 替换为你电脑的实际局域网 IP）
 const char* serverUrl = "http://192.168.1.154:9991/trigger-screenshot"; 

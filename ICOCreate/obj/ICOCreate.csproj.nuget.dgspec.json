@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\ICOCreate.csproj": {}
+    "D:\\gitHub\\ScreenShotButton\\ICOCreate\\ICOCreate.csproj": {}
   },
   "projects": {
-    "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\ICOCreate.csproj": {
+    "D:\\gitHub\\ScreenShotButton\\ICOCreate\\ICOCreate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\ICOCreate.csproj",
+        "projectUniqueName": "D:\\gitHub\\ScreenShotButton\\ICOCreate\\ICOCreate.csproj",
         "projectName": "ICOCreate",
-        "projectPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\ICOCreate.csproj",
+        "projectPath": "D:\\gitHub\\ScreenShotButton\\ICOCreate\\ICOCreate.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\obj\\",
+        "outputPath": "D:\\gitHub\\ScreenShotButton\\ICOCreate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
