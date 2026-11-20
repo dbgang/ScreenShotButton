@@ -1,0 +1,16 @@
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\bin\Debug\net8.0-windows\ICOCreate.exe
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\bin\Debug\net8.0-windows\ICOCreate.deps.json
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\bin\Debug\net8.0-windows\ICOCreate.runtimeconfig.json
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\bin\Debug\net8.0-windows\ICOCreate.dll
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\bin\Debug\net8.0-windows\ICOCreate.pdb
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.Form1.resources
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.csproj.GenerateResource.cache
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.GeneratedMSBuildEditorConfig.editorconfig
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.AssemblyInfoInputs.cache
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.AssemblyInfo.cs
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.csproj.CoreCompileInputs.cache
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.dll
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\refint\ICOCreate.dll
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.pdb
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ICOCreate.genruntimeconfig.cache
+D:\00GitControl\04TestTools\ScreenShot\ICOCreate\obj\Debug\net8.0-windows\ref\ICOCreate.dll

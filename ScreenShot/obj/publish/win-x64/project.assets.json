@@ -1,0 +1,240 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Selenium.WebDriver/4.52.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.props": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/selenium-manager": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-x64/native/selenium-manager": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx/native/selenium-manager": {
+            "assetType": "native",
+            "rid": "osx"
+          },
+          "runtimes/win/native/selenium-manager.exe": {
+            "assetType": "native",
+            "rid": "win"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/157.0.8103.3800": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      }
+    },
+    "net8.0-windows7.0/win-x64": {
+      "Selenium.WebDriver/4.52.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Selenium.WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "native": {
+          "runtimes/win/native/selenium-manager.exe": {}
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.props": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/157.0.8103.3800": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selenium.WebDriver/4.52.0": {
+      "sha512": "ISAxyCkxAQ1pvJ9/9619q4DTdvuW4zaJydxoSqNFS7Db8JytgilbJXYHg7xwpGXXjNwXSx/07hqaKwL0Unf+pg==",
+      "type": "package",
+      "path": "selenium.webdriver/4.52.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NOTICE",
+        "README.md",
+        "build/Selenium.WebDriver.props",
+        "buildTransitive/Selenium.WebDriver.props",
+        "icon.png",
+        "lib/net462/Selenium.WebDriver.dll",
+        "lib/net462/Selenium.WebDriver.xml",
+        "lib/net8.0/Selenium.WebDriver.dll",
+        "lib/net8.0/Selenium.WebDriver.xml",
+        "lib/netstandard2.0/Selenium.WebDriver.dll",
+        "lib/netstandard2.0/Selenium.WebDriver.xml",
+        "runtimes/linux-arm64/native/selenium-manager",
+        "runtimes/linux-x64/native/selenium-manager",
+        "runtimes/osx/native/selenium-manager",
+        "runtimes/win/native/selenium-manager.exe",
+        "selenium-manager-THIRD-PARTY-NOTICES.txt",
+        "selenium-manager.cdx.json",
+        "selenium.webdriver.4.52.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/157.0.8103.3800": {
+      "sha512": "kqq0pWT9bmIinMZgQdboy/RNf2mrDzY7T19h3xMXq3X7z4k2sHozHZnSSeW2vXIBJxRoxa9bX0ki+6dBlN/rjA==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/157.0.8103.3800",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.157.0.8103.3800.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Selenium.WebDriver >= 4.52.0",
+      "Selenium.WebDriver.ChromeDriver >= 157.0.8103.3800"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\smith\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+      "projectName": "ScreenShot",
+      "projectPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+      "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
+      "outputPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.52.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[157.0.8103.3800, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[8.0.28, 8.0.28]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\00GitControl\\04TestTools\\ScreenShot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\screenshot\\screenshot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|solutionrelative:screenshot\\screenshot.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\icocreate\\windowcheckiconfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|solutionrelative:icocreate\\windowcheckiconfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\icocreate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|solutionrelative:icocreate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\icocreate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|solutionrelative:icocreate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\icocreate\\snipiconfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829BF5E7-6D07-40D7-A658-2C267A20C5ED}|ICOCreate\\ICOCreate.csproj|solutionrelative:icocreate\\snipiconfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\screenshot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|solutionrelative:screenshot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\screenshot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|solutionrelative:screenshot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\screenshot\\screenshot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|solutionrelative:screenshot\\screenshot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|d:\\00gitcontrol\\04testtools\\screenshot\\screenshot\\instrumentscreenshotapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C0881-0777-40F9-81E2-438B6E17C8D8}|ScreenShot\\ScreenShot.csproj|solutionrelative:screenshot\\instrumentscreenshotapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowCheckIconFactory.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\WindowCheckIconFactory.cs",
+              "RelativeDocumentMoniker": "ICOCreate\\WindowCheckIconFactory.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\WindowCheckIconFactory.cs",
+              "RelativeToolTip": "ICOCreate\\WindowCheckIconFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:47:05.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\Form1.cs",
+              "RelativeDocumentMoniker": "ICOCreate\\Form1.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\Form1.cs",
+              "RelativeToolTip": "ICOCreate\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:41:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnipIconFactory.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\SnipIconFactory.cs",
+              "RelativeDocumentMoniker": "ICOCreate\\SnipIconFactory.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\SnipIconFactory.cs",
+              "RelativeToolTip": "ICOCreate\\SnipIconFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:40:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\Form1.cs",
+              "RelativeDocumentMoniker": "ICOCreate\\Form1.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ICOCreate\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ICOCreate\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:39:28.858Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenShot",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+              "RelativeDocumentMoniker": "ScreenShot\\ScreenShot.csproj",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+              "RelativeToolTip": "ScreenShot\\ScreenShot.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-07T13:35:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenShot\\Program.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\Program.cs",
+              "RelativeToolTip": "ScreenShot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T13:12:58.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScreenShot.csproj",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+              "RelativeDocumentMoniker": "ScreenShot\\ScreenShot.csproj",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+              "RelativeToolTip": "ScreenShot\\ScreenShot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T12:56:03.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\Form1.cs",
+              "RelativeDocumentMoniker": "ScreenShot\\Form1.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\Form1.cs",
+              "RelativeToolTip": "ScreenShot\\Form1.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAqwE8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T12:43:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstrumentScreenShotApp.cs",
+              "DocumentMoniker": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\InstrumentScreenShotApp.cs",
+              "RelativeDocumentMoniker": "ScreenShot\\InstrumentScreenShotApp.cs",
+              "ToolTip": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\InstrumentScreenShotApp.cs",
+              "RelativeToolTip": "ScreenShot\\InstrumentScreenShotApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T12:43:29.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

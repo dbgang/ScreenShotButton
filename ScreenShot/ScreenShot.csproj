@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>shot.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="shot.ico" />
+  </ItemGroup>
+<!-- 在这里添加这行代码 -->
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" /> 
+    <PackageReference Include="Selenium.WebDriver" Version="4.52.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="157.0.8103.3800" />
+  </ItemGroup>
+
+</Project>

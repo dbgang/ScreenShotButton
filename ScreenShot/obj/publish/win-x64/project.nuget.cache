@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y6+2cCfycs=",
+  "success": true,
+  "projectFilePath": "D:\\00GitControl\\04TestTools\\ScreenShot\\ScreenShot\\ScreenShot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smith\\.nuget\\packages\\selenium.webdriver\\4.52.0\\selenium.webdriver.4.52.0.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\selenium.webdriver.chromedriver\\157.0.8103.3800\\selenium.webdriver.chromedriver.157.0.8103.3800.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.28\\microsoft.netcore.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.28\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.28\\microsoft.aspnetcore.app.runtime.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
